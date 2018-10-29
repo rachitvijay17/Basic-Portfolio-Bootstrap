@@ -1,0 +1,121 @@
+body{
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    background-image: url(../images/gravel.png);
+}
+
+#h1{
+background-color:#4aaaa5;
+font-family: 'Georgia', Times, 'Times New Roman', serif;
+padding-left: 10px;
+padding-right: 10px;
+color: #ffffff;
+}
+
+.navbar {
+ padding: 20px 0 0 0;
+ margin-bottom: 0;
+ border-bottom-style: solid;
+ border-bottom-color: #cccccc;
+
+}
+
+.navbar-brand{
+    padding-bottom: 0;
+    margin-bottom: 0;
+    padding-right: 0;
+    background-color: #4aaaa5;
+    color: #ffffff;
+}
+
+.nav-item{
+    text-align: right;
+}
+
+.nav-link{
+    color: #777777;
+    border-right-style: solid;
+    border-right-color: #F4F6F6;
+}
+
+.nav li:last-child{
+    border-right-color: black;
+}
+
+.container{
+    background-color: #ffffff;
+    padding: 0 20px 0 20px;
+    font-family: 'Cambria', 'Cochin', Georgia, Times, 'Times New Roman', serif;
+}
+
+.header_rv{
+    padding: 0;
+}
+
+#index_img_rv{
+    width: 250px;
+    height: 200px;
+
+}
+
+#line_rv{
+    border-top: 2px solid;
+    margin: 10 0 10 0;
+    color: #cccccc;
+}
+
+#footer_rv{
+    margin: auto;
+    margin-bottom: 0;
+    text-align: center;
+}
+
+.footer_nav_rv{
+    background-color: #666666 !important;
+    border-top-style: solid;
+    border-top-color: #4aaaa5;
+    border-top-width: 5px;
+}
+
+.btn_rv{
+    background-color: #4aaaa5; 
+    border: none;
+    border-radius: 0;
+    width: 100px;
+}
+
+#message{
+    height: 200px;
+}
+
+.main{
+    margin-bottom: 200px;
+}
+
+.main_contact{
+    margin-bottom: 200px;
+}
+
+.main_portfolio{
+    margin-bottom: 200px;
+}
+
+#imgp1{
+    width: 300px;
+    height: 250px;
+    padding-top: 20px;
+    
+}
+
+.caption{
+    width: 300px;
+    position: absolute;
+    left: 15px;
+    right: 0%;
+    bottom: 10px;
+    background-color: #4aaaa5;
+
+}
+
+.col-xs-6{
+    padding-top: 20px;
+}
